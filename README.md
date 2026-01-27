@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saad</h1>
 <h3 align="center">A passionate Software Development Engineer From Egypt</h3>
 
-- 🔭 I’m currently working on [Maze Generator](https://github.com/ahmedsaad562000/Maze-Generator)
+- 🔭 I’m currently working on [Maze Generator & Solver](https://github.com/ASaa3d/Maze-Generator-Solver)
 
 - 🌱 I’m currently learning **Compose Multiplatform**
 
