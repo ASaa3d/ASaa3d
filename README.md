@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [NN-CPP](https://github.com/ASaa3d/NN-CPP)
 
-- 🌱 I’m currently learning **Compose Multiplatform**
-
 - 📫 How to reach me **a.sa3d.e4@protonmail.com**
 
 - ⚡ Fun fact **I Love Chess**
