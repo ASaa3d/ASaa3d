@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saad</h1>
 <h3 align="center">A passionate Software Development Engineer From Egypt</h3>
 
-- 🔭 I’m currently working on [bash-scripting-checkpoint](https://github.com/ASaa3d/bash-checkpoint)
+- 🔭 I’m currently working on [bash-checkpoint](https://github.com/ASaa3d/bash-checkpoint)
 
 - 📫 How to reach me **a.sa3d.e4@protonmail.com**
 
